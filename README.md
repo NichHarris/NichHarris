@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![NichHarris' GitHub stats](https://github-readme-stats.vercel.app/api?username=NichHarris&show_icons=true&theme=radical)](https://github.com/NichHarris/github-readme-stats)
+[![NichHarris' GitHub stats](https://github-readme-stats.vercel.app/api?username=NichHarris&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NichHarris&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NichHarris/NichHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
