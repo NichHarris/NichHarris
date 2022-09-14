@@ -1,6 +1,3 @@
-### Hello there 
-![image](https://user-images.githubusercontent.com/48420387/161862585-f479af72-a086-405c-9f09-315fefb231ee.png)
-
 
 [![NichHarris' GitHub stats](https://github-readme-stats.vercel.app/api?username=NichHarris&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
